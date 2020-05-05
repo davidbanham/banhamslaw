@@ -1,7 +1,7 @@
 ---
 title: "My Cup Overfloweth"
 date: 2020-05-05T13:20:49+10:00
-draft: true
+draft: false
 ---
 
 Just imagine – an early morning before a video-call with the USA. I've dragged myself from bed and started making a coffee. I've diligently weighed the beans, rinsed the filter with hot water into my mug. I attend to my toast – aiming for perfect synchronisation of coffee brewing and toaster popping – then I return to put the beans in filter. I tare the scales and check that yes – I do indeed have 19.5g off grounds (shakes fist at my grind-retaining Breville Smart Grinder).

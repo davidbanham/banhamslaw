@@ -11,7 +11,7 @@ enableemoji = false
 theme = "ramium"
 
 [params]
-    description = "Your ability to procure caffiene is inversely proportional to your need for it"
+    description = "Your ability to procure caffeine is inversely proportional to your need for it"
     googleSearch = ""
     showDate = true # make false if dont want to show date
     math = false # best to enable this in the front matter of a page
